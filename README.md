@@ -26,6 +26,3 @@ Users can **enter text manually** or **upload `.txt` files**, and the app will p
 3. `TextBlob` performs spelling corrections.
 4. `NLTK` is used for sentence and word tokenization, optionally for grammar enhancement.
 5. Corrected text is displayed alongside the original.
-
-## 📂 Folder Structure
-
